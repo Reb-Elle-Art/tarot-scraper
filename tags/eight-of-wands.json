@@ -1,0 +1,40 @@
+{
+  "card_id": "eight-of-wands",
+  "card_name": "Eight of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "eight",
+  "astrological": null,
+  "themes": [
+    "travel",
+    "endings",
+    "money",
+    "fear",
+    "creativity",
+    "creativity_block",
+    "control"
+  ],
+  "keywords": [
+    "energy",
+    "things",
+    "speed",
+    "fast",
+    "example",
+    "time",
+    "quickly",
+    "speedy",
+    "cut",
+    "sky",
+    "finally",
+    "human",
+    "intellect",
+    "manage",
+    "isn"
+  ],
+  "symbols": [
+    "wand",
+    "fire",
+    "path"
+  ],
+  "brief_summary": "Eight wands cut across the sky."
+}

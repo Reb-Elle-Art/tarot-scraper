@@ -1,0 +1,41 @@
+{
+  "card_id": "four-of-swords",
+  "card_name": "Four of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "four",
+  "astrological": null,
+  "themes": [
+    "conflict",
+    "health",
+    "spiritual",
+    "endings",
+    "communication",
+    "betrayal"
+  ],
+  "keywords": [
+    "man",
+    "rest",
+    "mental",
+    "time",
+    "coffin",
+    "retreat",
+    "pallet",
+    "meditation",
+    "themselves",
+    "arguments",
+    "verbal",
+    "heal",
+    "literally",
+    "indicates",
+    "recuperation"
+  ],
+  "symbols": [
+    "sword",
+    "chalice",
+    "sun",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A young man rests on a pallet, three swords above, one under him."
+}

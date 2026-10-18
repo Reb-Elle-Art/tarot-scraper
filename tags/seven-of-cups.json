@@ -1,0 +1,42 @@
+{
+  "card_id": "seven-of-cups",
+  "card_name": "Seven of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "seven",
+  "astrological": null,
+  "themes": [
+    "decision",
+    "deception",
+    "conflict",
+    "creativity",
+    "communication",
+    "loss",
+    "betrayal",
+    "creativity_block"
+  ],
+  "keywords": [
+    "emotions",
+    "fantasies",
+    "dreams",
+    "reality",
+    "person",
+    "man",
+    "suit",
+    "illusions",
+    "decision",
+    "challenge",
+    "choices",
+    "daydreams",
+    "creativity",
+    "realistically",
+    "possible"
+  ],
+  "symbols": [
+    "chalice",
+    "water",
+    "ring",
+    "clouds"
+  ],
+  "brief_summary": "A man sees seven cups floating on a cloud, each with something enticing rising out of it."
+}

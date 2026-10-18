@@ -1,0 +1,45 @@
+{
+  "card_id": "queen-of-wands",
+  "card_name": "Queen of Wands",
+  "card_type": "court",
+  "suit": "wands",
+  "card_number": "queen",
+  "astrological": "Aries",
+  "themes": [
+    "creativity",
+    "family",
+    "travel",
+    "endings",
+    "love",
+    "conflict",
+    "money",
+    "career"
+  ],
+  "keywords": [
+    "woman",
+    "energy",
+    "friends",
+    "things",
+    "charisma",
+    "others",
+    "real",
+    "warmth",
+    "like",
+    "children",
+    "lives",
+    "intimidate",
+    "happen",
+    "easily",
+    "way"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "child",
+    "fire",
+    "path",
+    "tree",
+    "ring"
+  ],
+  "brief_summary": "As a development: Developing a trip or making real a career, or creating a movement."
+}

@@ -1,0 +1,40 @@
+{
+  "card_id": "five-of-wands",
+  "card_name": "Five of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "five",
+  "astrological": null,
+  "themes": [
+    "conflict",
+    "career",
+    "beginnings",
+    "education",
+    "endings",
+    "love",
+    "transformation",
+    "fear"
+  ],
+  "keywords": [
+    "competition",
+    "stand",
+    "battle",
+    "among",
+    "stages",
+    "like",
+    "company",
+    "mayor",
+    "serious",
+    "winning",
+    "harder",
+    "others",
+    "time",
+    "talented",
+    "struggle"
+  ],
+  "symbols": [
+    "wand",
+    "star"
+  ],
+  "brief_summary": "Five similar young men with five wands battle among themselves."
+}

@@ -1,0 +1,41 @@
+{
+  "card_id": "six-of-swords",
+  "card_name": "Six of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "six",
+  "astrological": null,
+  "themes": [
+    "communication",
+    "conflict",
+    "loss",
+    "endings",
+    "transformation",
+    "creativity",
+    "travel"
+  ],
+  "keywords": [
+    "boat",
+    "problems",
+    "your",
+    "shore",
+    "passenger",
+    "waters",
+    "river",
+    "mind",
+    "finding",
+    "solutions",
+    "math",
+    "way",
+    "help",
+    "mental",
+    "clear"
+  ],
+  "symbols": [
+    "sword",
+    "water",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A boat of swords being ferried across a river with a woman as passenger."
+}

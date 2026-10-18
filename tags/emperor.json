@@ -1,0 +1,45 @@
+{
+  "card_id": "emperor",
+  "card_name": "The Emperor",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "04",
+  "astrological": "Aries",
+  "themes": [
+    "love",
+    "family",
+    "control",
+    "endings",
+    "beginnings",
+    "transformation",
+    "creativity",
+    "decision"
+  ],
+  "keywords": [
+    "control",
+    "father",
+    "your",
+    "throne",
+    "leader",
+    "fool",
+    "now",
+    "like",
+    "energy",
+    "command",
+    "authority",
+    "kingdom",
+    "scepter",
+    "help",
+    "way"
+  ],
+  "symbols": [
+    "crown",
+    "eagle",
+    "child",
+    "water",
+    "path",
+    "tree",
+    "ring"
+  ],
+  "brief_summary": "The Emperor, as Aries, the Ram, naturally follows the Empress."
+}

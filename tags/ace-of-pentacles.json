@@ -1,0 +1,36 @@
+{
+  "card_id": "ace-of-pentacles",
+  "card_name": "Ace of Pentacles",
+  "card_type": "minor",
+  "suit": "pentacles",
+  "card_number": "ace",
+  "astrological": null,
+  "themes": [
+    "beginnings",
+    "money",
+    "health",
+    "love"
+  ],
+  "keywords": [
+    "luck",
+    "health",
+    "desire",
+    "hint",
+    "prosperity",
+    "burn",
+    "flow",
+    "fly",
+    "physical",
+    "grounded",
+    "like",
+    "seed",
+    "ground",
+    "sprout",
+    "roots"
+  ],
+  "symbols": [
+    "pentacle",
+    "path"
+  ],
+  "brief_summary": "New luck, good health or work for new prosperity."
+}

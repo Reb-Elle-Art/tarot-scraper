@@ -1,0 +1,38 @@
+{
+  "card_id": "nine-of-swords",
+  "card_name": "Nine of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "nine",
+  "astrological": null,
+  "themes": [
+    "fear",
+    "communication",
+    "endings",
+    "isolation"
+  ],
+  "keywords": [
+    "problems",
+    "wake",
+    "thing",
+    "ideas",
+    "things",
+    "far",
+    "woman",
+    "wakes",
+    "nightmare",
+    "wall",
+    "night",
+    "anxiety",
+    "waking",
+    "insomnia",
+    "like"
+  ],
+  "symbols": [
+    "sword",
+    "path",
+    "tree",
+    "ring"
+  ],
+  "brief_summary": "A woman wakes from a nightmare, nine swords on the wall."
+}

@@ -1,0 +1,42 @@
+{
+  "card_id": "nine-of-cups",
+  "card_name": "Nine of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "nine",
+  "astrological": null,
+  "themes": [
+    "family",
+    "joy",
+    "endings",
+    "love",
+    "creativity",
+    "luxury",
+    "beginnings",
+    "loss"
+  ],
+  "keywords": [
+    "family",
+    "friends",
+    "love",
+    "innkeeper",
+    "back",
+    "friendship",
+    "apart",
+    "sits",
+    "guests",
+    "considered",
+    "minors",
+    "mind",
+    "aladdin",
+    "magic",
+    "lantern"
+  ],
+  "symbols": [
+    "chalice",
+    "child",
+    "ring",
+    "lantern"
+  ],
+  "brief_summary": "An innkeeper sits before nine cups set out for guests."
+}

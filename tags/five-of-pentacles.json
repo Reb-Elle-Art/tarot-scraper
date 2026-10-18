@@ -1,0 +1,40 @@
+{
+  "card_id": "five-of-pentacles",
+  "card_name": "Five of Pentacles",
+  "card_type": "minor",
+  "suit": "pentacles",
+  "card_number": "five",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "money",
+    "spiritual",
+    "loss",
+    "love",
+    "health",
+    "education",
+    "nostalgia"
+  ],
+  "keywords": [
+    "poor",
+    "church",
+    "loss",
+    "folk",
+    "times",
+    "window",
+    "financial",
+    "luck",
+    "health",
+    "time",
+    "fives",
+    "help",
+    "social",
+    "again",
+    "pride"
+  ],
+  "symbols": [
+    "pentacle",
+    "ring"
+  ],
+  "brief_summary": "Two poor folk sit outside a church with five pentacles on its stained glass window."
+}

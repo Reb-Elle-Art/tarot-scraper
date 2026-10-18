@@ -1,0 +1,48 @@
+{
+  "card_id": "fool",
+  "card_name": "The Fool",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "00",
+  "astrological": "Uranus",
+  "themes": [
+    "beginnings",
+    "love",
+    "endings",
+    "travel",
+    "creativity",
+    "communication",
+    "career",
+    "family"
+  ],
+  "keywords": [
+    "dog",
+    "cliff",
+    "your",
+    "fresh",
+    "fall",
+    "step",
+    "way",
+    "starting",
+    "energy",
+    "like",
+    "world",
+    "completely",
+    "real",
+    "pack",
+    "tied"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "wolf",
+    "child",
+    "fire",
+    "tower",
+    "path",
+    "mountain",
+    "heart",
+    "ring"
+  ],
+  "brief_summary": "At #0 (or, in some decks, #22, the last card as much as the first of the Majors) the Fool is the card of infinite possibilities."
+}

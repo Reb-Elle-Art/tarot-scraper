@@ -1,0 +1,44 @@
+{
+  "card_id": "ten-of-cups",
+  "card_name": "Ten of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "ten",
+  "astrological": null,
+  "themes": [
+    "love",
+    "endings",
+    "spiritual",
+    "family",
+    "joy",
+    "creativity",
+    "anger",
+    "conflict"
+  ],
+  "keywords": [
+    "family",
+    "love",
+    "emotional",
+    "nine",
+    "like",
+    "harmony",
+    "problem",
+    "rainbow",
+    "emotions",
+    "predicts",
+    "together",
+    "partnership",
+    "home",
+    "disruption",
+    "away"
+  ],
+  "symbols": [
+    "chalice",
+    "wand",
+    "sun",
+    "child",
+    "water",
+    "path"
+  ],
+  "brief_summary": "A family delights in a rainbow of cups."
+}

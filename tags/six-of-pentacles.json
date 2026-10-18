@@ -1,0 +1,42 @@
+{
+  "card_id": "six-of-pentacles",
+  "card_name": "Six of Pentacles",
+  "card_type": "minor",
+  "suit": "pentacles",
+  "card_number": "six",
+  "astrological": null,
+  "themes": [
+    "money",
+    "endings",
+    "spiritual",
+    "transformation",
+    "communication",
+    "loss",
+    "luxury",
+    "anger"
+  ],
+  "keywords": [
+    "money",
+    "poor",
+    "charity",
+    "generosity",
+    "freely",
+    "share",
+    "scales",
+    "hands",
+    "rich",
+    "proud",
+    "restore",
+    "balance",
+    "time",
+    "help",
+    "accept"
+  ],
+  "symbols": [
+    "scales",
+    "pentacle",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A wealthy man holding scales hands out money to the poor."
+}

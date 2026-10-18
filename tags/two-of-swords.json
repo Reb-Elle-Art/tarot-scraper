@@ -1,0 +1,27 @@
+{
+  "card_id": "two-of-swords",
+  "card_name": "Two of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "two",
+  "astrological": null,
+  "themes": [
+    "conflict",
+    "communication"
+  ],
+  "keywords": [
+    "compromise",
+    "temporary",
+    "opposing",
+    "forces",
+    "agree",
+    "now",
+    "then",
+    "reached",
+    "fighting"
+  ],
+  "symbols": [
+    "sword"
+  ],
+  "brief_summary": "this is a card about a temporary compromise."
+}

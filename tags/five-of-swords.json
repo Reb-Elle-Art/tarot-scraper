@@ -1,0 +1,40 @@
+{
+  "card_id": "five-of-swords",
+  "card_name": "Five of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "five",
+  "astrological": null,
+  "themes": [
+    "conflict",
+    "communication",
+    "loss",
+    "education",
+    "endings",
+    "beginnings",
+    "creativity",
+    "betrayal"
+  ],
+  "keywords": [
+    "fights",
+    "argument",
+    "battle",
+    "ourselves",
+    "teach",
+    "interpretation",
+    "loses",
+    "winning",
+    "limits",
+    "weaknesses",
+    "weren",
+    "time",
+    "walk",
+    "away",
+    "fight"
+  ],
+  "symbols": [
+    "sword",
+    "path"
+  ],
+  "brief_summary": "A smirking young man gathers up swords won in battle from two, humiliated losers."
+}

@@ -1,0 +1,46 @@
+{
+  "card_id": "world",
+  "card_name": "The World",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "21",
+  "astrological": "Saturn",
+  "themes": [
+    "endings",
+    "travel",
+    "career",
+    "education",
+    "beginnings",
+    "health",
+    "transformation",
+    "communication"
+  ],
+  "keywords": [
+    "person",
+    "fool",
+    "like",
+    "universe",
+    "indicates",
+    "dancer",
+    "man",
+    "four",
+    "yoni",
+    "right",
+    "complete",
+    "sometimes",
+    "hanged",
+    "wheel",
+    "circle"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "lion",
+    "eagle",
+    "water",
+    "path",
+    "ring",
+    "wheel"
+  ],
+  "brief_summary": "The World (or Universe) card pictures a dancer in a Yoni (sometimes made of laurel leaves)."
+}

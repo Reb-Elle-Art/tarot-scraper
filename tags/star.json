@@ -1,0 +1,48 @@
+{
+  "card_id": "star",
+  "card_name": "The Star",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "17",
+  "astrological": "Aquarius",
+  "themes": [
+    "love",
+    "health",
+    "loss",
+    "shadow",
+    "endings",
+    "spiritual",
+    "transformation",
+    "communication"
+  ],
+  "keywords": [
+    "future",
+    "like",
+    "time",
+    "healing",
+    "person",
+    "water",
+    "light",
+    "way",
+    "pool",
+    "urns",
+    "fool",
+    "night",
+    "sky",
+    "fruit",
+    "your"
+  ],
+  "symbols": [
+    "star",
+    "water",
+    "fire",
+    "tower",
+    "path",
+    "mountain",
+    "tree",
+    "heart",
+    "ring",
+    "clouds"
+  ],
+  "brief_summary": "With Aquarius as its ruling sign, The Star is a card that looks to the future."
+}

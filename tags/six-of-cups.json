@@ -1,0 +1,43 @@
+{
+  "card_id": "six-of-cups",
+  "card_name": "Six of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "six",
+  "astrological": null,
+  "themes": [
+    "nostalgia",
+    "love",
+    "family",
+    "joy",
+    "endings",
+    "beginnings",
+    "conflict",
+    "money"
+  ],
+  "keywords": [
+    "joy",
+    "moment",
+    "happy",
+    "children",
+    "family",
+    "friends",
+    "emotional",
+    "innocent",
+    "love",
+    "nostalgia",
+    "friend",
+    "back",
+    "past",
+    "familiar",
+    "remembering"
+  ],
+  "symbols": [
+    "chalice",
+    "child",
+    "path",
+    "ring",
+    "flowers"
+  ],
+  "brief_summary": "Two children among six flowering cups."
+}

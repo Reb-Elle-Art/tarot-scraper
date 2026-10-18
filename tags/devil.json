@@ -1,0 +1,46 @@
+{
+  "card_id": "devil",
+  "card_name": "The Devil",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "15",
+  "astrological": "Capricorn",
+  "themes": [
+    "control",
+    "love",
+    "ambition",
+    "endings",
+    "spiritual",
+    "freedom",
+    "beginnings",
+    "conflict"
+  ],
+  "keywords": [
+    "god",
+    "power",
+    "goat",
+    "person",
+    "fool",
+    "control",
+    "temptation",
+    "powerful",
+    "chains",
+    "mountain",
+    "others",
+    "point",
+    "addictions",
+    "indulge",
+    "creature"
+  ],
+  "symbols": [
+    "moon",
+    "sun",
+    "water",
+    "path",
+    "chains",
+    "mountain",
+    "key",
+    "ring"
+  ],
+  "brief_summary": "These are gods of pleasure and abandon, of wild behavior and unbridled desires."
+}

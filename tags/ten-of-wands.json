@@ -1,0 +1,45 @@
+{
+  "card_id": "ten-of-wands",
+  "card_name": "Ten of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "ten",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "career",
+    "beginnings",
+    "transformation",
+    "control",
+    "love",
+    "money",
+    "health"
+  ],
+  "keywords": [
+    "energy",
+    "thing",
+    "burdens",
+    "then",
+    "weighed",
+    "music",
+    "trying",
+    "control",
+    "things",
+    "creativity",
+    "spirit",
+    "comes",
+    "movement",
+    "business",
+    "dad"
+  ],
+  "symbols": [
+    "scales",
+    "wand",
+    "pentacle",
+    "star",
+    "child",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A man carries ten heavy wands, trying to keep them together, bowed over by their weight."
+}

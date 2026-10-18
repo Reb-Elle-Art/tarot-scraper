@@ -1,0 +1,41 @@
+{
+  "card_id": "ace-of-wands",
+  "card_name": "Ace of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "ace",
+  "astrological": null,
+  "themes": [
+    "beginnings",
+    "love",
+    "career",
+    "endings",
+    "creativity",
+    "decision",
+    "hope",
+    "ambition"
+  ],
+  "keywords": [
+    "spark",
+    "energy",
+    "passion",
+    "indicates",
+    "discovered",
+    "religion",
+    "philosophy",
+    "cause",
+    "career",
+    "choice",
+    "sexual",
+    "partner",
+    "heat",
+    "wand",
+    "walking"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "fire"
+  ],
+  "brief_summary": "A new spark of energy for a new passion."
+}

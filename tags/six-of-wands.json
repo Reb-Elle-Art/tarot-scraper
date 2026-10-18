@@ -1,0 +1,41 @@
+{
+  "card_id": "six-of-wands",
+  "card_name": "Six of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "six",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "conflict",
+    "career",
+    "transformation",
+    "creativity",
+    "education",
+    "creativity_block"
+  ],
+  "keywords": [
+    "victory",
+    "crowd",
+    "applause",
+    "energy",
+    "fans",
+    "offers",
+    "victor",
+    "energizes",
+    "heroes",
+    "shows",
+    "victorious",
+    "man",
+    "horse",
+    "carrying",
+    "wand"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "The Victory Card: A victorious man on a horse, carrying a wand with a laurel wreath, is applauded by all."
+}

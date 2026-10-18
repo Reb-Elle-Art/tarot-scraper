@@ -1,0 +1,44 @@
+{
+  "card_id": "strength",
+  "card_name": "Strength",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "08",
+  "astrological": "Leo",
+  "themes": [
+    "control",
+    "endings",
+    "love",
+    "conflict",
+    "spiritual",
+    "fear",
+    "creativity",
+    "loss"
+  ],
+  "keywords": [
+    "lion",
+    "maiden",
+    "like",
+    "fool",
+    "passions",
+    "wild",
+    "power",
+    "control",
+    "energy",
+    "beast",
+    "obey",
+    "fire",
+    "chariot",
+    "your",
+    "woman"
+  ],
+  "symbols": [
+    "sun",
+    "lion",
+    "fire",
+    "path",
+    "heart",
+    "ring"
+  ],
+  "brief_summary": "There are many stories that come to mind with this card: Daniel in the lion's den."
+}

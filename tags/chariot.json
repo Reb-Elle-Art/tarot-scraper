@@ -1,0 +1,48 @@
+{
+  "card_id": "chariot",
+  "card_name": "The Chariot",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "07",
+  "astrological": "Cancer",
+  "themes": [
+    "conflict",
+    "beginnings",
+    "creativity",
+    "endings",
+    "travel",
+    "love",
+    "spiritual",
+    "shadow"
+  ],
+  "keywords": [
+    "your",
+    "victory",
+    "fool",
+    "warrior",
+    "enemies",
+    "unity",
+    "horses",
+    "moving",
+    "charioteer",
+    "control",
+    "confidence",
+    "motivation",
+    "like",
+    "driver",
+    "car"
+  ],
+  "symbols": [
+    "wand",
+    "moon",
+    "sun",
+    "star",
+    "lion",
+    "water",
+    "tower",
+    "path",
+    "ring",
+    "wheel"
+  ],
+  "brief_summary": "The chariot is one of the most complex cards to define."
+}

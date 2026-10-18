@@ -1,0 +1,48 @@
+{
+  "card_id": "moon",
+  "card_name": "The Moon",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "18",
+  "astrological": "Pisces",
+  "themes": [
+    "creativity",
+    "shadow",
+    "spiritual",
+    "intuition",
+    "health",
+    "transformation",
+    "travel",
+    "control"
+  ],
+  "keywords": [
+    "dark",
+    "wild",
+    "time",
+    "land",
+    "mental",
+    "boat",
+    "genius",
+    "light",
+    "things",
+    "artistic",
+    "instead",
+    "chaos",
+    "two",
+    "fool",
+    "path"
+  ],
+  "symbols": [
+    "wand",
+    "moon",
+    "sun",
+    "star",
+    "wolf",
+    "child",
+    "water",
+    "tower",
+    "path",
+    "tree"
+  ],
+  "brief_summary": "With Pisces as its ruling sign, the Moon is all about visions and illusions, madness, genius and poetry."
+}

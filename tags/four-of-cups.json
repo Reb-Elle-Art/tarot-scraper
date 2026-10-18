@@ -1,0 +1,45 @@
+{
+  "card_id": "four-of-cups",
+  "card_name": "Four of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "four",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "beginnings",
+    "love",
+    "transformation",
+    "creativity",
+    "travel",
+    "luxury",
+    "joy"
+  ],
+  "keywords": [
+    "time",
+    "man",
+    "tree",
+    "three",
+    "feelings",
+    "fourth",
+    "cloud",
+    "discontent",
+    "imagine",
+    "seated",
+    "habit",
+    "routine",
+    "relationship",
+    "person",
+    "things"
+  ],
+  "symbols": [
+    "chalice",
+    "star",
+    "water",
+    "path",
+    "tree",
+    "ring",
+    "clouds"
+  ],
+  "brief_summary": "Water is about movement and flow, making the stability of the \"fours\" contrary to this element."
+}

@@ -1,0 +1,39 @@
+{
+  "card_id": "seven-of-wands",
+  "card_name": "Seven of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "seven",
+  "astrological": null,
+  "themes": [
+    "conflict",
+    "creativity",
+    "endings",
+    "career",
+    "spiritual",
+    "betrayal",
+    "legal",
+    "education"
+  ],
+  "keywords": [
+    "your",
+    "ground",
+    "energy",
+    "defend",
+    "religion",
+    "against",
+    "others",
+    "odds",
+    "indicates",
+    "fighting",
+    "stand",
+    "person",
+    "wrong",
+    "ideas",
+    "man"
+  ],
+  "symbols": [
+    "wand"
+  ],
+  "brief_summary": "A man defends himself with one wand against six others."
+}

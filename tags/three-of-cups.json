@@ -1,0 +1,42 @@
+{
+  "card_id": "three-of-cups",
+  "card_name": "Three of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "three",
+  "astrological": null,
+  "themes": [
+    "love",
+    "joy",
+    "endings",
+    "creativity",
+    "family",
+    "beginnings",
+    "money",
+    "luxury"
+  ],
+  "keywords": [
+    "family",
+    "people",
+    "fruit",
+    "ladies",
+    "return",
+    "joy",
+    "friends",
+    "person",
+    "meet",
+    "important",
+    "celebration",
+    "things",
+    "drugs",
+    "maidens",
+    "overflowing"
+  ],
+  "symbols": [
+    "chalice",
+    "wand",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "Three maidens with three overflowing cups celebrate."
+}

@@ -1,0 +1,47 @@
+{
+  "card_id": "empress",
+  "card_name": "The Empress",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "03",
+  "astrological": "Venus",
+  "themes": [
+    "love",
+    "creativity",
+    "endings",
+    "beginnings",
+    "family",
+    "fertility",
+    "transformation",
+    "conflict"
+  ],
+  "keywords": [
+    "mother",
+    "child",
+    "patience",
+    "time",
+    "children",
+    "venus",
+    "creation",
+    "attention",
+    "business",
+    "goddess",
+    "then",
+    "woman",
+    "grow",
+    "baby",
+    "pomegranates"
+  ],
+  "symbols": [
+    "crown",
+    "wand",
+    "star",
+    "child",
+    "water",
+    "path",
+    "tree",
+    "heart",
+    "ring"
+  ],
+  "brief_summary": "The Empress is a creator, be it creation of life, of romance, of art or business."
+}

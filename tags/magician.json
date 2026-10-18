@@ -1,0 +1,48 @@
+{
+  "card_id": "magician",
+  "card_name": "The Magician",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "01",
+  "astrological": "Mercury",
+  "themes": [
+    "communication",
+    "love",
+    "career",
+    "health",
+    "creativity",
+    "beginnings",
+    "spiritual",
+    "travel"
+  ],
+  "keywords": [
+    "wand",
+    "idea",
+    "fool",
+    "tools",
+    "person",
+    "table",
+    "way",
+    "head",
+    "possibilities",
+    "life",
+    "tarot",
+    "pack",
+    "power",
+    "god",
+    "mercury"
+  ],
+  "symbols": [
+    "sword",
+    "chalice",
+    "wand",
+    "pentacle",
+    "serpent",
+    "water",
+    "path",
+    "mountain",
+    "ring",
+    "bird"
+  ],
+  "brief_summary": "At #1, the Magician is the male power of creation by willpower and desire."
+}

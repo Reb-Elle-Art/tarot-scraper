@@ -1,0 +1,38 @@
+{
+  "card_id": "two-of-wands",
+  "card_name": "Two of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "two",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "love",
+    "intuition",
+    "decision",
+    "legal",
+    "creativity_block"
+  ],
+  "keywords": [
+    "choice",
+    "your",
+    "energy",
+    "passion",
+    "lovers",
+    "hand",
+    "way",
+    "regret",
+    "doing",
+    "likely",
+    "clear",
+    "picture",
+    "features",
+    "man",
+    "wand"
+  ],
+  "symbols": [
+    "wand",
+    "path"
+  ],
+  "brief_summary": "Picture usually features a man with one wand in hand, the other set aside."
+}

@@ -1,0 +1,48 @@
+{
+  "card_id": "high_priestess",
+  "card_name": "The High Priestess",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "02",
+  "astrological": "Moon",
+  "themes": [
+    "beginnings",
+    "communication",
+    "intuition",
+    "career",
+    "spiritual",
+    "family",
+    "decision",
+    "control"
+  ],
+  "keywords": [
+    "knowledge",
+    "secret",
+    "moon",
+    "two",
+    "magician",
+    "pillars",
+    "decision",
+    "instincts",
+    "fool",
+    "like",
+    "your",
+    "secrets",
+    "idea",
+    "time",
+    "crescent"
+  ],
+  "symbols": [
+    "crown",
+    "sword",
+    "chalice",
+    "wand",
+    "pentacle",
+    "moon",
+    "sun",
+    "star",
+    "child",
+    "water"
+  ],
+  "brief_summary": "Once you have an idea, you also have decisions to make."
+}

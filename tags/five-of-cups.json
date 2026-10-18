@@ -1,0 +1,42 @@
+{
+  "card_id": "five-of-cups",
+  "card_name": "Five of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "five",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "loss",
+    "nostalgia",
+    "love",
+    "fear",
+    "hope",
+    "shadow"
+  ],
+  "keywords": [
+    "man",
+    "spilled",
+    "two",
+    "seeing",
+    "regret",
+    "feelings",
+    "three",
+    "standing",
+    "themselves",
+    "now",
+    "didn",
+    "love",
+    "weeps",
+    "plain",
+    "girl"
+  ],
+  "symbols": [
+    "chalice",
+    "star",
+    "water",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A young man looks down in despair at three spilled cups of wine, never seeing the two still standing."
+}

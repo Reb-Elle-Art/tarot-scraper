@@ -1,0 +1,40 @@
+{
+  "card_id": "nine-of-wands",
+  "card_name": "Nine of Wands",
+  "card_type": "minor",
+  "suit": "wands",
+  "card_number": "nine",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "transformation",
+    "conflict",
+    "money",
+    "career",
+    "creativity",
+    "family",
+    "betrayal"
+  ],
+  "keywords": [
+    "energy",
+    "flight",
+    "soldier",
+    "invested",
+    "final",
+    "like",
+    "else",
+    "wounded",
+    "guard",
+    "climbing",
+    "stairs",
+    "top",
+    "back",
+    "reserves",
+    "stand"
+  ],
+  "symbols": [
+    "wand",
+    "pentacle"
+  ],
+  "brief_summary": "A wounded man holding a wand stands guard over the other eight wands."
+}

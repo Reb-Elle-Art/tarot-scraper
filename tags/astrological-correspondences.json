@@ -1,0 +1,133 @@
+{
+  "_note": "Astrological correspondences for all 78 tarot cards. card_id values match YAML frontmatter in scraped card files. Sources: Pagan Grimoire, Tarot Elements, Mastering the Zodiac, The Crone, Labyrinthos, Jack Chanek.",
+  "_usage": "For the astrological tag field, use the 'primary' value. Secondary values are alternate traditions (not needed unless you want extra depth). Pages (element) and Aces (null) are noted separately.",
+
+  "major": {
+    "fool":             { "primary": "Uranus",   "secondary": null,      "element": "Air" },
+    "magician":          { "primary": "Mercury", "secondary": "Virgo",   "element": "Air" },
+    "high_priestess":    { "primary": "Moon",     "secondary": null,      "element": "Water" },
+    "empress":           { "primary": "Venus",    "secondary": "Taurus, Libra", "element": "Earth" },
+    "emperor":           { "primary": "Aries",    "secondary": "Mars",    "element": "Fire" },
+    "hierophant":        { "primary": "Taurus",   "secondary": "Venus",   "element": "Earth" },
+    "lovers":            { "primary": "Gemini",   "secondary": "Mercury", "element": "Air" },
+    "chariot":           { "primary": "Cancer",   "secondary": "Moon",    "element": "Water" },
+    "strength":          { "primary": "Leo",       "secondary": "Sun",     "element": "Fire" },
+    "hermit":            { "primary": "Virgo",     "secondary": "Mercury", "element": "Earth" },
+    "wheel_of_fortune":  { "primary": "Jupiter", "secondary": "Pisces",  "element": "Fire" },
+    "justice":           { "primary": "Libra",     "secondary": "Venus",   "element": "Air" },
+    "hanged_man":        { "primary": "Neptune",  "secondary": "Water",   "element": "Water" },
+    "death":             { "primary": "Scorpio",   "secondary": "Mars",    "element": "Water" },
+    "temperance":        { "primary": "Sagittarius", "secondary": "Jupiter", "element": "Fire" },
+    "devil":             { "primary": "Capricorn", "secondary": "Saturn",  "element": "Earth" },
+    "tower":             { "primary": "Mars",      "secondary": "Scorpio", "element": "Fire" },
+    "star":              { "primary": "Aquarius",  "secondary": "Saturn",  "element": "Air" },
+    "moon":              { "primary": "Pisces",    "secondary": "Jupiter", "element": "Water" },
+    "sun":               { "primary": "Sun",       "secondary": "Leo",     "element": "Fire" },
+    "judgement":         { "primary": "Pluto",     "secondary": "Fire",     "element": "Fire" },
+    "world":             { "primary": "Saturn",    "secondary": "Earth",   "element": "Earth" }
+  },
+
+  "_minor_arcana_suits": {
+    "wands":     { "element": "Fire",  "signs": ["Aries", "Leo", "Sagittarius"] },
+    "cups":      { "element": "Water", "signs": ["Cancer", "Scorpio", "Pisces"] },
+    "swords":    { "element": "Air",   "signs": ["Gemini", "Libra", "Aquarius"] },
+    "pentacles": { "element": "Earth", "signs": ["Taurus", "Virgo", "Capricorn"] }
+  },
+
+  "_decans_note": "Cards 2-10 use the Golden Dawn decan system. Each card corresponds to a 10-degree decan of the zodiac, ruled by a planet in the Chaldean order (Mars, Sun, Venus, Saturn, Jupiter, Mercury, Moon).",
+
+  "minor": {
+    "_wands": {
+      "2-of-wands":  { "planet": "Mars",     "sign": "Aries",       "decan": 1 },
+      "3-of-wands":  { "planet": "Sun",       "sign": "Aries",       "decan": 2 },
+      "4-of-wands":  { "planet": "Venus",     "sign": "Aries",       "decan": 3 },
+      "5-of-wands":  { "planet": "Saturn",   "sign": "Leo",         "decan": 1 },
+      "6-of-wands":  { "planet": "Jupiter",  "sign": "Leo",         "decan": 2 },
+      "7-of-wands":  { "planet": "Mars",     "sign": "Leo",         "decan": 3 },
+      "8-of-wands":  { "planet": "Mercury",  "sign": "Sagittarius", "decan": 1 },
+      "9-of-wands":  { "planet": "Moon",     "sign": "Sagittarius", "decan": 2 },
+      "10-of-wands": { "planet": "Saturn",   "sign": "Sagittarius", "decan": 3 }
+    },
+    "_cups": {
+      "2-of-cups":  { "planet": "Venus",    "sign": "Cancer",     "decan": 1 },
+      "3-of-cups":  { "planet": "Mercury",  "sign": "Cancer",     "decan": 2 },
+      "4-of-cups":  { "planet": "Moon",     "sign": "Cancer",     "decan": 3 },
+      "5-of-cups":  { "planet": "Mars",     "sign": "Scorpio",    "decan": 1 },
+      "6-of-cups":  { "planet": "Sun",      "sign": "Scorpio",    "decan": 2 },
+      "7-of-cups":  { "planet": "Venus",    "sign": "Scorpio",    "decan": 3 },
+      "8-of-cups":  { "planet": "Saturn",   "sign": "Pisces",     "decan": 1 },
+      "9-of-cups":  { "planet": "Jupiter",  "sign": "Pisces",     "decan": 2 },
+      "10-of-cups": { "planet": "Mars",     "sign": "Pisces",     "decan": 3 }
+    },
+    "_swords": {
+      "2-of-swords":  { "planet": "Moon",     "sign": "Libra",      "decan": 1 },
+      "3-of-swords":  { "planet": "Saturn",   "sign": "Libra",      "decan": 2 },
+      "4-of-swords":  { "planet": "Jupiter",  "sign": "Libra",      "decan": 3 },
+      "5-of-swords":  { "planet": "Venus",    "sign": "Aquarius",   "decan": 1 },
+      "6-of-swords":  { "planet": "Mercury",  "sign": "Aquarius",   "decan": 2 },
+      "7-of-swords":  { "planet": "Moon",     "sign": "Aquarius",   "decan": 3 },
+      "8-of-swords":  { "planet": "Jupiter",  "sign": "Gemini",     "decan": 1 },
+      "9-of-swords":  { "planet": "Mars",     "sign": "Gemini",     "decan": 2 },
+      "10-of-swords": { "planet": "Sun",      "sign": "Gemini",     "decan": 3 }
+    },
+    "_pentacles": {
+      "2-of-pentacles":  { "planet": "Jupiter", "sign": "Capricorn", "decan": 1 },
+      "3-of-pentacles":  { "planet": "Mars",    "sign": "Capricorn", "decan": 2 },
+      "4-of-pentacles":  { "planet": "Sun",     "sign": "Capricorn", "decan": 3 },
+      "5-of-pentacles":  { "planet": "Mercury", "sign": "Taurus",    "decan": 1 },
+      "6-of-pentacles":  { "planet": "Mars",    "sign": "Taurus",    "decan": 2 },
+      "7-of-pentacles":  { "planet": "Saturn",  "sign": "Taurus",    "decan": 3 },
+      "8-of-pentacles":  { "planet": "Sun",     "sign": "Virgo",     "decan": 1 },
+      "9-of-pentacles":  { "planet": "Venus",   "sign": "Virgo",     "decan": 2 },
+      "10-of-pentacles": { "planet": "Mercury", "sign": "Virgo",     "decan": 3 }
+    }
+  },
+
+  "_aces_note": "Aces represent the pure element of the suit. No single planet or zodiac sign — element only.",
+
+  "aces": {
+    "ace-of-wands":     { "element": "Fire",  "note": "pure element" },
+    "ace-of-cups":      { "element": "Water", "note": "pure element" },
+    "ace-of-swords":    { "element": "Air",   "note": "pure element" },
+    "ace-of-pentacles": { "element": "Earth", "note": "pure element" }
+  },
+
+  "_court_note": "Pages = all three signs of the element (cardinal + fixed + mutable). Knights/Queens/Kings = one sign each based on modality (Fixed/Cardinal/Mutable). Source: Golden Dawn system.",
+
+  "court": {
+    "_wands": {
+      "page-of-wands":    { "primary": "Aries, Leo, Sagittarius", "note": "all fire signs (element)" },
+      "knight-of-wands":  { "primary": "Leo",         "modality": "fixed" },
+      "queen-of-wands":   { "primary": "Aries",        "modality": "cardinal" },
+      "king-of-wands":    { "primary": "Sagittarius",   "modality": "mutable" }
+    },
+    "_cups": {
+      "page-of-cups":     { "primary": "Cancer, Scorpio, Pisces", "note": "all water signs (element)" },
+      "knight-of-cups":   { "primary": "Pisces",       "modality": "mutable" },
+      "queen-of-cups":    { "primary": "Cancer",        "modality": "cardinal" },
+      "king-of-cups":     { "primary": "Scorpio",       "modality": "fixed" }
+    },
+    "_swords": {
+      "page-of-swords":   { "primary": "Gemini, Libra, Aquarius", "note": "all air signs (element)" },
+      "knight-of-swords": { "primary": "Aquarius",      "modality": "fixed" },
+      "queen-of-swords":  { "primary": "Libra",         "modality": "cardinal" },
+      "king-of-swords":   { "primary": "Gemini",        "modality": "mutable" }
+    },
+    "_pentacles": {
+      "page-of-pentacles":  { "primary": "Taurus, Virgo, Capricorn", "note": "all earth signs (element)" },
+      "knight-of-pentacles":{ "primary": "Taurus",       "modality": "fixed" },
+      "queen-of-pentacles": { "primary": "Capricorn",    "modality": "cardinal" },
+      "king-of-pentacles":  { "primary": "Virgo",        "modality": "mutable" }
+    }
+  },
+
+  "_sources": [
+    "https://www.pagangrimoire.com/tarot-correspondences-major-arcana",
+    "https://tarotelements.com/major-arcana-correspondences",
+    "https://tarotelements.com/minor-arcana-correspondences",
+    "https://masteringthezodiac.com/tarot-and-astrology",
+    "https://the-crone.com/2021/05/28/the-astrological-associations-in-tarot",
+    "https://labyrinthos.co/blogs/learn-tarot-with-labyrinthos-academy/astrology-and-tarot-correspondences-the-minor-arcana-pip-cards",
+    "https://jackofwandstarot.wordpress.com/2017/04/28/astrology-and-the-court-cards"
+  ]
+}

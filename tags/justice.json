@@ -1,0 +1,44 @@
+{
+  "card_id": "justice",
+  "card_name": "Justice",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "11",
+  "astrological": "Libra",
+  "themes": [
+    "legal",
+    "love",
+    "communication",
+    "endings",
+    "beginnings",
+    "conflict",
+    "money",
+    "health"
+  ],
+  "keywords": [
+    "things",
+    "scales",
+    "brother",
+    "sword",
+    "fair",
+    "balance",
+    "fool",
+    "woman",
+    "inheritance",
+    "poor",
+    "right",
+    "rich",
+    "matter",
+    "half",
+    "legal"
+  ],
+  "symbols": [
+    "sword",
+    "scales",
+    "star",
+    "water",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "With Libra as its ruling sign, Justice is about cold, objective balance through reason or natural force."
+}

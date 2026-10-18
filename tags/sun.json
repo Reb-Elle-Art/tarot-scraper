@@ -1,0 +1,46 @@
+{
+  "card_id": "sun",
+  "card_name": "The Sun",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "19",
+  "astrological": "Sun",
+  "themes": [
+    "beginnings",
+    "shadow",
+    "joy",
+    "endings",
+    "conflict",
+    "creativity",
+    "communication",
+    "family"
+  ],
+  "keywords": [
+    "light",
+    "fool",
+    "children",
+    "boy",
+    "child",
+    "garden",
+    "moon",
+    "sunflowers",
+    "things",
+    "time",
+    "energy",
+    "your",
+    "music",
+    "indicate",
+    "reason"
+  ],
+  "symbols": [
+    "moon",
+    "sun",
+    "child",
+    "water",
+    "path",
+    "rose",
+    "ring",
+    "flowers"
+  ],
+  "brief_summary": "The Sun promises the querent their day in the sun."
+}

@@ -1,0 +1,38 @@
+{
+  "card_id": "ace-of-swords",
+  "card_name": "Ace of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "ace",
+  "astrological": null,
+  "themes": [
+    "communication",
+    "beginnings",
+    "creativity",
+    "creativity_block",
+    "revelation"
+  ],
+  "keywords": [
+    "mind",
+    "idea",
+    "awakening",
+    "challenges",
+    "indicates",
+    "person",
+    "sharper",
+    "clearer",
+    "talk",
+    "discuss",
+    "breeze",
+    "stirs",
+    "trees",
+    "fledgling",
+    "thinks"
+  ],
+  "symbols": [
+    "sword",
+    "star",
+    "tree"
+  ],
+  "brief_summary": "The mind is awakening for new challenges in the Ace of Swords."
+}

@@ -1,0 +1,44 @@
+{
+  "card_id": "eight-of-cups",
+  "card_name": "Eight of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "eight",
+  "astrological": null,
+  "themes": [
+    "luxury",
+    "love",
+    "spiritual",
+    "family",
+    "endings",
+    "beginnings",
+    "money",
+    "intuition"
+  ],
+  "keywords": [
+    "dream",
+    "unknown",
+    "home",
+    "leaves",
+    "now",
+    "calling",
+    "moon",
+    "view",
+    "indulging",
+    "feelings",
+    "like",
+    "wild",
+    "freely",
+    "care",
+    "familiar"
+  ],
+  "symbols": [
+    "chalice",
+    "moon",
+    "lion",
+    "water",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A man leaves behind eight cups to follow the moon."
+}

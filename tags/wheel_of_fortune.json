@@ -1,0 +1,48 @@
+{
+  "card_id": "wheel_of_fortune",
+  "card_name": "Wheel of Fortune",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "10",
+  "astrological": "Jupiter",
+  "themes": [
+    "communication",
+    "endings",
+    "money",
+    "career",
+    "transformation",
+    "creativity",
+    "travel",
+    "creativity_block"
+  ],
+  "keywords": [
+    "luck",
+    "things",
+    "sphinx",
+    "comes",
+    "then",
+    "moving",
+    "instead",
+    "top",
+    "person",
+    "life",
+    "sometimes",
+    "back",
+    "happen",
+    "man",
+    "ferris"
+  ],
+  "symbols": [
+    "sword",
+    "chalice",
+    "wand",
+    "sun",
+    "star",
+    "angel",
+    "serpent",
+    "water",
+    "path",
+    "mountain"
+  ],
+  "brief_summary": "With Jupiter as its ruling planet, the Wheel of Fortune is all about luck and change."
+}

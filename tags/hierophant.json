@@ -1,0 +1,46 @@
+{
+  "card_id": "hierophant",
+  "card_name": "The Hierophant",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "05",
+  "astrological": "Taurus",
+  "themes": [
+    "communication",
+    "family",
+    "endings",
+    "love",
+    "spiritual",
+    "creativity",
+    "loss",
+    "legal"
+  ],
+  "keywords": [
+    "community",
+    "fear",
+    "traditions",
+    "spiritual",
+    "your",
+    "acolytes",
+    "rules",
+    "fool",
+    "man",
+    "power",
+    "knowledge",
+    "true",
+    "ethics",
+    "high",
+    "like"
+  ],
+  "symbols": [
+    "wand",
+    "child",
+    "path",
+    "mountain",
+    "tree",
+    "heart",
+    "key",
+    "ring"
+  ],
+  "brief_summary": "The Hierophant is well suited to be such a leader as, like all Taureans, he strives to create harmony and peace in the midst of crisis."
+}

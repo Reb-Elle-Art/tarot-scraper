@@ -1,0 +1,40 @@
+{
+  "card_id": "seven-of-swords",
+  "card_name": "Seven of Swords",
+  "card_type": "minor",
+  "suit": "swords",
+  "card_number": "seven",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "communication",
+    "betrayal",
+    "loss",
+    "conflict",
+    "decision",
+    "ambition"
+  ],
+  "keywords": [
+    "thief",
+    "stolen",
+    "sneaking",
+    "five",
+    "sneaky",
+    "tricky",
+    "like",
+    "back",
+    "number",
+    "against",
+    "stealing",
+    "guard",
+    "fact",
+    "order",
+    "goal"
+  ],
+  "symbols": [
+    "sword",
+    "wand",
+    "path"
+  ],
+  "brief_summary": "A thief sneaks off with five out of seven swords."
+}

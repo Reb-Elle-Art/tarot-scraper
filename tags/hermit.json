@@ -1,0 +1,47 @@
+{
+  "card_id": "hermit",
+  "card_name": "The Hermit",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "09",
+  "astrological": "Virgo",
+  "themes": [
+    "isolation",
+    "beginnings",
+    "love",
+    "conflict",
+    "creativity",
+    "family",
+    "shadow",
+    "education"
+  ],
+  "keywords": [
+    "lantern",
+    "time",
+    "things",
+    "light",
+    "person",
+    "alone",
+    "blocked",
+    "staff",
+    "fool",
+    "way",
+    "then",
+    "like",
+    "night",
+    "world",
+    "illuminated"
+  ],
+  "symbols": [
+    "wand",
+    "moon",
+    "star",
+    "child",
+    "water",
+    "path",
+    "ring",
+    "lantern",
+    "flowers"
+  ],
+  "brief_summary": "Represented by Virgo, the Hermit is a card of introspection, analysis and, well, virginity."
+}

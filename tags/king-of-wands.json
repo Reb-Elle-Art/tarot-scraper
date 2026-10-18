@@ -1,0 +1,45 @@
+{
+  "card_id": "king-of-wands",
+  "card_name": "King of Wands",
+  "card_type": "court",
+  "suit": "wands",
+  "card_number": "king",
+  "astrological": "Sagittarius",
+  "themes": [
+    "endings",
+    "beginnings",
+    "family",
+    "travel",
+    "love",
+    "transformation",
+    "betrayal",
+    "conflict"
+  ],
+  "keywords": [
+    "great",
+    "ideas",
+    "man",
+    "people",
+    "charge",
+    "leader",
+    "love",
+    "family",
+    "motivation",
+    "idea",
+    "energy",
+    "fun",
+    "charismatic",
+    "innovator",
+    "please"
+  ],
+  "symbols": [
+    "wand",
+    "star",
+    "child",
+    "fire",
+    "path",
+    "mountain",
+    "ring"
+  ],
+  "brief_summary": "As Motivation: The planning of a great trip, the idea for some grand new career, being motivated to go into politics or take charge."
+}

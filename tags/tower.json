@@ -1,0 +1,43 @@
+{
+  "card_id": "tower",
+  "card_name": "The Tower",
+  "card_type": "major",
+  "suit": null,
+  "card_number": "16",
+  "astrological": "Mars",
+  "themes": [
+    "endings",
+    "love",
+    "spiritual",
+    "revelation",
+    "fear",
+    "shadow",
+    "control",
+    "beginnings"
+  ],
+  "keywords": [
+    "truth",
+    "lightning",
+    "false",
+    "fool",
+    "comes",
+    "now",
+    "lies",
+    "flash",
+    "beliefs",
+    "sometimes",
+    "thing",
+    "men",
+    "shaken",
+    "structures",
+    "true"
+  ],
+  "symbols": [
+    "sun",
+    "star",
+    "water",
+    "tower",
+    "ring"
+  ],
+  "brief_summary": "With Mars as its ruling planet, the Tower is a card about war, a war between the structures of lies and the lightning flash of truth."
+}

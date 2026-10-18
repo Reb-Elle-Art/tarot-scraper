@@ -1,0 +1,42 @@
+{
+  "card_id": "seven-of-pentacles",
+  "card_name": "Seven of Pentacles",
+  "card_type": "minor",
+  "suit": "pentacles",
+  "card_number": "seven",
+  "astrological": null,
+  "themes": [
+    "endings",
+    "creativity",
+    "beginnings",
+    "money",
+    "health",
+    "transformation",
+    "education",
+    "creativity_block"
+  ],
+  "keywords": [
+    "fruit",
+    "patience",
+    "ready",
+    "challenge",
+    "failure",
+    "opportunity",
+    "like",
+    "wait",
+    "impatient",
+    "beginning",
+    "waiting",
+    "ripe",
+    "hard",
+    "recognize",
+    "real"
+  ],
+  "symbols": [
+    "pentacle",
+    "path",
+    "tree",
+    "ring"
+  ],
+  "brief_summary": "A farmer leans on his spade gazing at pentacles that grow on a bush like fruit."
+}

@@ -1,0 +1,46 @@
+{
+  "card_id": "king-of-swords",
+  "card_name": "King of Swords",
+  "card_type": "court",
+  "suit": "swords",
+  "card_number": "king",
+  "astrological": "Gemini",
+  "themes": [
+    "family",
+    "conflict",
+    "communication",
+    "legal",
+    "commitment",
+    "beginnings",
+    "love",
+    "decision"
+  ],
+  "keywords": [
+    "ideals",
+    "man",
+    "judge",
+    "family",
+    "ideas",
+    "high",
+    "like",
+    "facts",
+    "motivated",
+    "argue",
+    "problems",
+    "kingdom",
+    "loving",
+    "distant",
+    "fair"
+  ],
+  "symbols": [
+    "sword",
+    "chalice",
+    "child",
+    "water",
+    "path",
+    "heart",
+    "key",
+    "ring"
+  ],
+  "brief_summary": "As Motivation: Motivated to come up with ideas or argue points."
+}

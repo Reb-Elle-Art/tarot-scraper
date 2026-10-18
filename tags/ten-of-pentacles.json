@@ -1,0 +1,44 @@
+{
+  "card_id": "ten-of-pentacles",
+  "card_name": "Ten of Pentacles",
+  "card_type": "minor",
+  "suit": "pentacles",
+  "card_number": "ten",
+  "astrological": null,
+  "themes": [
+    "money",
+    "family",
+    "endings",
+    "spiritual",
+    "loss",
+    "joy",
+    "beginnings",
+    "love"
+  ],
+  "keywords": [
+    "castle",
+    "man",
+    "child",
+    "children",
+    "elder",
+    "wealth",
+    "generation",
+    "others",
+    "passed",
+    "indicate",
+    "money",
+    "fortune",
+    "woman",
+    "sits",
+    "rich"
+  ],
+  "symbols": [
+    "pentacle",
+    "wolf",
+    "child",
+    "tower",
+    "path",
+    "ring"
+  ],
+  "brief_summary": "A man, woman and child are stepping through the portal to the grounds of a castle."
+}

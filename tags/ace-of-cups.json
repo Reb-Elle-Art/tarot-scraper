@@ -1,0 +1,41 @@
+{
+  "card_id": "ace-of-cups",
+  "card_name": "Ace of Cups",
+  "card_type": "minor",
+  "suit": "cups",
+  "card_number": "ace",
+  "astrological": null,
+  "themes": [
+    "love",
+    "beginnings",
+    "endings",
+    "spiritual",
+    "creativity",
+    "family",
+    "creativity_block"
+  ],
+  "keywords": [
+    "spark",
+    "emotions",
+    "emotion",
+    "cup",
+    "energy",
+    "passion",
+    "rising",
+    "love",
+    "indicates",
+    "welling",
+    "beginning",
+    "vivid",
+    "dreams",
+    "writing",
+    "poetry"
+  ],
+  "symbols": [
+    "chalice",
+    "child",
+    "heart",
+    "ring"
+  ],
+  "brief_summary": "A new spark of energy for a new passion."
+}
