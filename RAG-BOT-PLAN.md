@@ -83,6 +83,7 @@ Returns each card with position context.
 ### Repo Location
 ```
 /home/enid/.openclaw/workspace/projects/tarot-scraper/
+https://github.com/Reb-Elle-Art/tarot-scraper
 ```
 
 ### Source Files
